@@ -1,7 +1,7 @@
 # 📝 LLaMA Text Summarizer
 
 A simple AI-powered text summarization app using a **locally hosted LLaMA model** via Ollama, with a FastAPI backend and a Streamlit frontend.
-
+![text summarizer](https://github.com/WisteriaM7/TEXT-SUMMARIZER-AI/blob/main/Screenshot%202026-04-25%20201433.png)
 ---
 
 ## 🧠 Tech Stack
