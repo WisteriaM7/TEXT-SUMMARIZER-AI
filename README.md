@@ -39,8 +39,8 @@ text-summarizer-llama/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/llama-text-summarizer.git
-cd llama-text-summarizer
+git clone https://github.com/WisteriaM7/TEXT-SUMMARIZER-AI.git
+cd TEXT-SUMMARIZER-AI
 ```
 
 ### 2. Create and Activate a Virtual Environment
